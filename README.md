@@ -12,11 +12,11 @@ Ich entwickle KI-Anwendungen für die öffentliche Verwaltung.
 
 ### Stack
 
-**Backend** · Python · FastAPI · FastMCP
-**LLM & Retrieval** · Ollama · Embeddings · Vektordatenbank
-**Integration** · CMIS · ACL · MCP · Entra ID · Keycloak
-**Deployment** · Docker · nginx
-**Infrastruktur** · Hetzner · Strato · StackIT 
+- **Backend** · Python · FastAPI · FastMCP
+- **LLM & Retrieval** · Ollama · Embeddings · Vektordatenbank
+- **Integration** · CMIS · ACL · MCP · Entra ID · Keycloak
+- **Deployment** · Docker · nginx
+- **Infrastruktur** · Hetzner · Strato · StackIT 
 
 ### Mehr
 
