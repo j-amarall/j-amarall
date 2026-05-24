@@ -24,13 +24,16 @@ Berlin · Germany
 Python · FastAPI · FastMCP
 
 ### LLM & Retrieval
-Ollama · LangChain · Embeddings · ChromaDB
+Ollama · LangChain · ChromaDB (Pilotierung) · Qdrant (produktive Systeme) · Jina Embeddings
 
-### Integration
-CMIS · MCP · ACL · Entra ID · Keycloak
+### Integration & Security
+CMIS · ACL · MCP · Entra ID · Keycloak
 
-### Deployment & Infrastructure
-Docker · nginx · Hetzner · StackIT · Scaleway
+### Deployment
+Docker · nginx · Linux
+
+### Infrastructure
+Hetzner · Scaleway · StackIT
 
 ---
 
