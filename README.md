@@ -30,7 +30,7 @@ Ollama · LangChain · Embeddings · ChromaDB
 CMIS · MCP · ACL · Entra ID · Keycloak
 
 ### Deployment & Infrastructure
-Docker · nginx · Hetzner · StackIT
+Docker · nginx · Hetzner · StackIT · Scaleway
 
 ---
 
