@@ -1,24 +1,56 @@
-## Jonatas Furtado do Amaral
+# Jonatas Furtado do Amaral
 
-IT Consultant & AI Developer @ **[IMTB Consulting GmbH](https://github.com/IMTB-CON)**, Berlin.
-Ich entwickle KI-Anwendungen für die öffentliche Verwaltung.
+AI Engineer & IT Consultant for the Public Sector  
+Building secure GenAI and RAG systems for government environments.
 
-### Fokus
+Berlin · Germany
 
-- Retrieval-Augmented Generation in behördlichen Aktenbeständen und DMS
-- On-Premise-LLM-Stacks für sicherheitskritische Umgebungen
-- Model Context Protocol (MCP), Agenten-Architekturen, Workflow-Automatisierung
-- EU AI Act-konforme Umsetzung im öffentlichen Sektor
+---
 
-### Stack
+## Focus
 
-- **Backend** · Python · FastAPI · FastMCP
-- **LLM & Retrieval** · Ollama · Embeddings · Vektordatenbank
-- **Integration** · CMIS · ACL · MCP · Entra ID · Keycloak
-- **Deployment** · Docker · nginx
-- **Infrastruktur** · Hetzner · Strato · StackIT 
+- Retrieval-Augmented Generation (RAG) for eFiles and DMS
+- On-Premise LLM infrastructures for security-critical environments
+- AI assistants for public administration
+- Agent architectures & workflow automation
+- Semantic search with access control integration
+- EU AI Act-aligned AI systems
 
-### Mehr
+---
 
-- 🏛️ Projekte im Verwaltungskontext → **[IMTB-CON](https://github.com/IMTB-CON)**
-- ✉️ Kontakt über IMTB Consulting
+## Tech Stack
+
+### Backend
+Python · FastAPI · FastMCP
+
+### LLM & Retrieval
+Ollama · LangChain · Embeddings · ChromaDB
+
+### Integration
+CMIS · MCP · ACL · Entra ID · Keycloak
+
+### Deployment & Infrastructure
+Docker · nginx · Hetzner · StackIT
+
+---
+
+## Current Work
+
+- Secure RAG systems for public administration
+- Semantic search in eAkte environments
+- AI-assisted document workflows
+- On-Premise GenAI architectures
+
+---
+
+## Featured Projects
+
+🏛️ Public-sector AI projects  
+→ [IMTB-CON](https://github.com/IMTB-CON)
+
+---
+
+## Contact
+
+- LinkedIn → [linkedin.com/in/jamarall](https://linkedin.com/in/jamarall)
+- Organization → [IMTB Consulting](https://github.com/IMTB-CON)
