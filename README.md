@@ -1,52 +1,63 @@
 # Jonatas Furtado do Amaral
 
-AI Engineer & IT Consultant for the Public Sector  
-Building sovereign GenAI, RAG and eFile systems for government environments.
+**AI Solution Architect · IT Consultant | Public Sector**
 
-Berlin · Germany · 🇩🇪 🇧🇷 🇬🇧
+I work with public administration to understand their processes, identify where technology can help, and build solutions that fit their needs.
+
+My work combines IT consulting and software development, with a focus on AI, RAG, document management and integrating new applications into existing government systems.
+
+Based in Berlin, Germany · 🇩🇪 🇧🇷 🇬🇧
 
 ---
 
-## Focus
+## What I Do
 
-- Retrieval-Augmented Generation (RAG) for eFiles and DMS, with access-control-aware search
-- Sovereign, self-hosted LLM infrastructure (on-premise GPU, EU cloud)
-- AI assistants and agent workflows (MCP) for public administration
-- Open-source eFile and case management (Alfresco · Flowable CMMN)
-- Justice IT: XJustiz, electronic legal communication (ERV)
-- Accessible, secure software: BITV / WCAG 2.2, IT-Grundschutz, EUPL
+- **IT Consulting & Solution Design** — Working directly with customers to understand their processes, gather requirements and turn them into practical technical solutions.
+- **AI & RAG** — Building AI-powered search and assistants for documents, eFiles and knowledge bases, including access control and user permissions.
+- **eFile & DMS Integration** — Working with systems such as nScale, VIS, eGov-Suite, Acta Nova and Alfresco. Connecting applications through CMIS, REST APIs and other interfaces.
+- **LLM Infrastructure** — Running open-source language models on local GPUs, dedicated servers and European cloud infrastructure.
+- **AI Agents & Automation** — Developing assistants and workflows using LLMs, MCP and external tools.
+- **Government Workflows** — Analyzing administrative processes and building applications to simplify document processing, case management and repetitive tasks.
+- **Infrastructure & Deployment** — Working with Docker, Kubernetes and OpenShift to deploy applications on-premises and in European cloud environments.
+- **Security & Accessibility** — Considering data protection, authentication, IT security and accessibility from the beginning of a project.
 
 ---
 
 ## Tech Stack
 
-**Backend** · Python · FastAPI · FastMCP · PostgreSQL
-
-**LLM & Retrieval** · vLLM · LiteLLM · Ollama · Docling · Qdrant · ChromaDB · Jina Embeddings · BGE Reranker
-
-**eFile & Integration** · Alfresco · Flowable (CMMN/DMN) · CMIS · MCP
-
-**Identity & Security** · Entra ID · Keycloak · oauth2-proxy · supply-chain hardening
-
-**iOS** · Swift · SwiftUI · TestFlight
-
-**Deployment** · Docker · nginx · Linux · Hetzner · Scaleway · STACKIT
-
-**Way of working** · AI-assisted development with Claude Code, agent workflows and a shared team engineering playbook
+| Area | Technologies |
+|---|---|
+| **Backend** | Python · FastAPI · PostgreSQL |
+| **LLMs** | Qwen · vLLM · Ollama · LiteLLM |
+| **RAG & Documents** | Qdrant · ChromaDB · Docling · Jina Embeddings · BGE Reranker |
+| **eFile & DMS** | nScale · VIS · eGov-Suite · Acta Nova · Alfresco |
+| **Integration & Workflows** | CMIS · REST APIs · FastMCP · Flowable · CMMN · DMN |
+| **Identity & Security** | Keycloak · Entra ID · OAuth2 Proxy |
+| **Infrastructure & DevOps** | Docker · Kubernetes · OpenShift · Linux · nginx · GitHub Actions · Hetzner · Scaleway · STACKIT |
+| **iOS** | Swift · SwiftUI · TestFlight |
 
 ---
 
-## Selected Work
+## How I Work
 
-- **Knowledge assistants** – RAG platforms for public-sector documents, with source citations and permission filtering
-- **Open-source eFile** – Alfresco + Flowable CMMN with dynamic, case-driven permissions
-- **Justice** – RAG knowledge base for a court rollout; XJustiz tooling
-- **Apps** – invoice processing and facility-management apps (web + native iOS via TestFlight), asset tracking for a public authority
-- **Platform** – self-hosted LLM gateway (vLLM/LiteLLM on own hardware), internal dev portal with Entra SSO, team engineering playbook
+I like being involved from the first conversation with a customer to the actual implementation.
+
+That means understanding how people work today, asking questions, identifying problems and figuring out what kind of solution makes sense. Sometimes that's an AI application, sometimes it's a simpler automation or an integration with an existing system.
+
+I also use AI coding tools in my daily development work, mainly **Claude Code, Codex and OpenCode**. They help me with implementation, debugging, testing and documentation. Architecture decisions, code reviews and security remain part of my responsibility.
+
+I enjoy working on projects where new technology has to fit into existing systems, especially in public administration, where replacing everything is rarely an option.
+
+---
+
+## Interests
+
+Open-source AI · RAG · MCP · Digital Government · IT Security · XJustiz · Accessible Software
 
 ---
 
 ## Contact
 
-- LinkedIn → [linkedin.com/in/jamarall](https://linkedin.com/in/jamarall)
-- Organization → [IMTB Solutions](https://github.com/IMTB-SOL) · [imtb.de](https://www.imtb.de/)
+- [LinkedIn](https://linkedin.com/in/jamarall)
+- [IMTB Solutions on GitHub](https://github.com/IMTB-SOL)
+- [imtb.de](https://www.imtb.de/)
